@@ -2,4 +2,4 @@
 
 ## Todo App Mini Project
 
- [Demo Project](https://github.com/Raka-coder/CodingCamp-batch-raka)
+[Demo Project](https://raka-coder.github.io/CodingCamp-2Feb26-raka/)
